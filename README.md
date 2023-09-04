@@ -4,7 +4,7 @@ Die vier Projekte sollen einen diversen Einblick in die verschiedenen Themengebi
 ### 01 Custom MLP Implementierung
 In diesem Projekt wurde ein eigener Multi Layer Perceptron ( MLP ) von Grund auf selbst implementiert. Für die Implementierung wurden nur SciPy und NumPy verwendet. 
 
-Wird main.py (requirements.txt beachten) ausgeführt, wird der tuned MLP mit dem # Mice Protein Expression (https://archive.ics.uci.edu/dataset/342/mice+protein+expression) Dataset trainiert und evaluiert. Das Scoring wird ausgegeben. 
+Wird main.py (requirements.txt beachten) ausgeführt, wird der tuned MLP mit dem Mice Protein Expression (https://archive.ics.uci.edu/dataset/342/mice+protein+expression) Dataset trainiert und evaluiert. Das f1-Score, Accuracy und Runtime werden in der Konsole ausgegeben. 
 
 Es kann auch Grid Search Hyperparameter Tuning über ein Custom Evaluation Model in drei verschiedenen Datasets ausgeführt werden. 
 
