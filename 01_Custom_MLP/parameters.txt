@@ -1,0 +1,24 @@
+Dataset: iris
+Parameters:
+hidden_layers: 2
+hidden_layer_size: 20
+alphas: 0.001
+activation_function: 
+score: 0.9666666666666667
+
+Dataset: breast
+Parameters:
+hidden_layers: 1
+hidden_layer_size: 10
+alphas: 0.001
+activation_function: tanh
+score: 0.9894366197183099
+
+Dataset: mice
+Parameters:
+hidden_layers: 1
+hidden_layer_size: 20
+alphas: 0.001
+activation_function: 
+score: 0.6161185247840413
+
