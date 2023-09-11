@@ -19,16 +19,18 @@ In diesem Projekt wird das Ising Modell mithilfe von Monte Carlo-Simulation mit 
 
 Auszuführen mit run.py. Im img Ordner ist die gefundene Binder-Kumulante und die Magnetsierung in Abhängigkeit von der Temperatur geplottet.
 
-### 04 Low-rank approximations in the Ising model
-
-Jupyter Notebook in dem thin SVD und truncated SVD sowie Principal Component Analysis verwendet wird um Eigenschaften des Ising Modells zu untersuchen.
-
-### 05 Classifying Supersymmetry using Logistic Regression
-
-Jupyter Notebook in dem Daten (5.000.000 Events, 18 Variablen) aus dem Large Hadron Collider mithilfe von Logistic Regression klassifiziert werden.
-
-### 06 Simulated-Annealing von NMR-Brain Scans
+### 04 Simulated-Annealing von NMR-Brain Scans
 
 In diesem Projekt wird ein NMR-Gehirnbild mithilfe von Simulated Annealing mit a priori Nachbarschaftskorrelation zu den 4 nächsten Nachbarn segmentiert.
 
 Auszuführen indem run.py gestartet wird. In den beiden .png-Dateien sind die segmentierten Ergebnisse zu sehen.
+
+### 05 Low-rank approximations in the Ising model
+
+Jupyter Notebook in dem thin SVD und truncated SVD sowie Principal Component Analysis verwendet wird um Eigenschaften des Ising Modells zu untersuchen.
+
+### 06 Classifying Supersymmetry using Logistic Regression
+
+Jupyter Notebook in dem Daten (5.000.000 Events, 18 Variablen) aus dem Large Hadron Collider mithilfe von Logistic Regression klassifiziert werden.
+
+
