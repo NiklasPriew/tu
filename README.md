@@ -1,5 +1,5 @@
 # Portfolio
-Die vier Projekte sollen einen diversen Einblick in die verschiedenen Themengebiete meiner bisherigen Ausbildung geben.
+Die sechs Projekte sollen einen diversen Einblick in die verschiedenen Themengebiete meiner bisherigen Ausbildung geben.
 
 ### 01 Custom MLP Implementierung
 In diesem Projekt wurde ein eigener Multi Layer Perceptron ( MLP ) von Grund auf selbst implementiert. Für die Implementierung wurden nur SciPy und NumPy verwendet. 
@@ -19,7 +19,15 @@ In diesem Projekt wird das Ising Modell mithilfe von Monte Carlo-Simulation mit 
 
 Auszuführen mit run.py. Im img Ordner ist die gefundene Binder-Kumulante und die Magnetsierung in Abhängigkeit von der Temperatur geplottet.
 
-### 04 Simulated-Annealing von NMR-Brain Scans
+### 04 Low-rank approximations in the Ising model
+
+Jupyter Notebook in dem thin SVD und truncated SVD sowie Principal Component Analysis verwendet wird um Eigenschaften des Ising Modells zu untersuchen.
+
+### 05 Classifying Supersymmetry using Logistic Regression
+
+Jupyter Notebook in dem Daten (5.000.000 Events, 18 Variablen) aus dem Large Hadron Collider mithilfe von Logistic Regression klassifiziert werden.
+
+### 06 Simulated-Annealing von NMR-Brain Scans
 
 In diesem Projekt wird ein NMR-Gehirnbild mithilfe von Simulated Annealing mit a priori Nachbarschaftskorrelation zu den 4 nächsten Nachbarn segmentiert.
 
